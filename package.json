@@ -1,6 +1,6 @@
 {
   "name": "namespace-feature-flag-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM & Yarn package that binds namespace-feature-flag with Javascript Applications",
   "main": "lib/index.js",
   "repository": "git@github.com:rabingaire/namespace-feature-flag-js.git",
